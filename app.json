@@ -15,7 +15,7 @@
     "SUDO_NAME": {
       "description": "Add Your Name Here",
       "required": true,
-      "value": "KÌÑG M-ÇRØSS"
+      "value": "K͛I͛N͛G͛✫M͛-C͛R͛O͛S͛S͛"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -30,22 +30,22 @@
     "PREFIX": {
       "description": "Set Your Prefix Here",
       "required": true,
-      "value": "!"
+      "value": "❗"
     },
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
       "required": false,
-      "value": "MCROSS_Mᴅ_V3"
+      "value": "𝐌-𝐂𝐑𝐎𝐒𝐒_𝐌𝐃_𝐕3"
     },
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
       "required": false,
-      "value": "MCROSS-𝐕𝟑"
+      "value": "𝐌𝐂𝐑𝐎𝐒𝐒-𝐕𝟑"
      },
      "AUTHER_NAME": {
       "description": "Enter Auther Name Here",
       "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   KING👑M-CROSS"
+      "value": "ＭＡＤＥ   ＢＹ   𝐊𝐈𝐍𝐆♡𝐌-𝐂𝐑𝐎𝐒𝐒"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
