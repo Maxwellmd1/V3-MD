@@ -50,31 +50,31 @@ global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur locat
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'MCROSS-V3-MD' //ur bot name
+global.botname = process.env.BOT_NAME || '𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '2349042566473' //ur owner number
+global.ownernumber = process.env.SUDO || '2349120730021' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'KING M-CROSS' //ur owner name
+global.ownername = process.env.SUDO_NAME || '𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://wa.me/2349042566473"
+global.wagc = process.env.GL_PUSH || "https://wa.me/2349120730021"
 //________________________________________________________________________________________________________
-global.themeemoji = process.env.GL_EMOJI || '👾'
+global.themeemoji = process.env.GL_EMOJI || '😶‍🌫️'
 //________________________________________________________________________________________________________
-global.wm = process.env.GL_WM || "👑KÌÑG M-ÇRØSS🌚"
+global.wm = process.env.GL_WM || "⚡𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳🌚"
 //________________________________________________________________________________________________________
 global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "M-CROSS-𝐕𝟑"
+global.packname = process.env.PACK_NAME || "𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "MADE BY KING M-CROSS"
+global.author = process.env.AUTHER_NAME || "MADE BY 𝑴𝑨𝑿𝑾𝑬𝑳𝑳"
 //________________________________________________________________________________________________________
-global.creator = process.env.GL_DEVS || "2349042566473@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "2349120730021@s.whatsapp.net"
 //________________________________________________________________________________________________________
-global.xprefix = process.env.PREFIX || '!'
+global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["2349042566473"] // Premium User
+global.premium = process.env.GL_VIP || ["2349120730021"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
