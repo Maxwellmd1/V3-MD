@@ -198,22 +198,22 @@ const xtime = moment.tz("Asia/Karachi").format("HH:mm:ss");
 const xdate = moment.tz("Asia/Karachi").format("DD/MM/YYYY");
 const time2 = moment().tz("Asia/Karachi").format("HH:mm:ss");
 if (time2 < "23:59:00") {
-  var xeonytimewisher = `Good Night Marrafucker⚡`;
+  var xeonytimewisher = `Good Night Babe`;
 }
 if (time2 < "19:00:00") {
-  var xeonytimewisher = `Good Evening Oponu👺`;
+  var xeonytimewisher = `Good Evening Bitch `;
 }
 if (time2 < "18:00:00") {
-  var xeonytimewisher = `Good Evening Asshole🌚`;
+  var xeonytimewisher = `Good Evening dear 💘`;
 }
 if (time2 < "15:00:00") {
-  var xeonytimewisher = `Good Afternoon Ma Nigga😌`;
+  var xeonytimewisher = `Good Afternoon Love 💕 💕 `;
 }
 if (time2 < "11:00:00") {
-  var xeonytimewisher = `Good Morning Bitch😜`;
+  var xeonytimewisher = `Good Morning Asshole🥲`;
 }
 if (time2 < "05:00:00") {
-  var xeonytimewisher = `Good Morning Mumu😈`;
+  var xeonytimewisher = `Good Morning Cow🐄`;
 }
 //function
 const reSize = async (buffer, ukur1, ukur2) => {
