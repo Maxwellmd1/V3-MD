@@ -10,17 +10,17 @@
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "2349042566473"
+      "value": "2349120730021"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
       "required": true,
-      "value": "K͛I͛N͛G͛✫M͛-C͛R͛O͛S͛S͛"
+      "value": "𖣘OP-𝑴𝑨𝑿𝑾𝑬𝑳𝑳"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": "6365ff48-3524-4260-bc57-58c7dd72c1d9"
+      "value": "6aedf33e-ccf9-435e-9dd8-ebd1147b3592"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
@@ -30,27 +30,27 @@
     "PREFIX": {
       "description": "Set Your Prefix Here",
       "required": true,
-      "value": "❗"
+      "value": "."
     },
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
       "required": false,
-      "value": "𝐌-𝐂𝐑𝐎𝐒𝐒_𝐌𝐃_𝐕3"
+      "value": "𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫_𝐕3"
     },
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
       "required": false,
-      "value": "𝐌𝐂𝐑𝐎𝐒𝐒-𝐕𝟑"
+      "value": "𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝐕𝟑"
      },
      "AUTHER_NAME": {
       "description": "Enter Auther Name Here",
       "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   𝐊𝐈𝐍𝐆♡𝐌-𝐂𝐑𝐎𝐒𝐒"
+      "value": "ＭＡＤＥ   ＢＹ   𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-OP"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
       "required": false,
-      "value": "2349042566473"
+      "value": "2349120730021"
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
